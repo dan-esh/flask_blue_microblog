@@ -1,7 +1,7 @@
 # Translations
 *.mo
 
-/venv
+venv
 app.db
 microblog.log*
 
